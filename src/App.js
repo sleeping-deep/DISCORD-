@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { ethers } from 'ethers'
-import { io } from "socket.io-client"
+import { io }  from "socket.io-client"
 
 // Components
 import Navigation from './components/Navigation'
